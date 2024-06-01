@@ -37,7 +37,7 @@
 > - 언어 : python
 > - 기술 : pandas, numpy, opencv, cnn, linear-regression, matplotlib
 >
-> [프로젝트 상세 설명]()
+> [프로젝트 상세 설명](https://github.com/AnnNaGam/project3)
 
 <br />
 
@@ -51,6 +51,6 @@
 > - 언어 : python
 > - 기술 : pandas, numpy, doc2vec, word2vec, bow, tf-idf
 >
-> [프로젝트 상세 설명](https://github.com/kimphysicsman/mylittlebeer/)
+> [프로젝트 상세 설명](https://github.com/AnnNaGam/project4)
 
 <br />
